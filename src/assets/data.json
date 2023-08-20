@@ -1,0 +1,42 @@
+{
+  "projects": [
+    {
+      "date": "01/07/2023",
+      "title": "VIDEO HUB",
+      "description": "This project shows sample videos along with other elements like dark-mode, slideshow, uploading, login and signup.",
+      "url": "https://kanishkaa.online/videohub/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233_1280.jpg"
+    },
+
+    {
+      "date": "07/07/2023",
+      "title": "CART",
+      "description": "An ecommerce shopping cart allows customers to easily add and remove products, change the quantity and get a total cost before finishing the transaction.",
+      "url": "https://kanishkaa.online/cart/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    },
+
+    {
+      "date": "14/07/2023",
+      "title": "REVIEWS",
+      "description": "An online review is an opinion of a product or service, written by someone who has used it. Online reviews are increasingly essential to decision making.",
+      "url": "https://kanishkaa.online/reviews/",
+      "imgSrc": "https://media.istockphoto.com/id/1367616995/photo/customer-feedback-experience-review-concept.jpg?s=612x612&w=0&k=20&c=cMJPKIgixe2htRkeOxIJz_m7PCYnpu-pEFaGvph37Wk="
+    },
+
+    {
+      "date": "23/07/2023",
+      "title": "MENU",
+      "description": "Online Menu - Simple, Contactless, Paper-free is a digital platform offered to food businesses. Customers can visit the URL and access the restaurant menu.",
+      "url": "https://kanishkaa.online/menu/",
+      "imgSrc": "https://media.istockphoto.com/id/1334073378/photo/close-up-view-of-a-woman-ordering-food-online-with-credit-card-home.jpg?s=612x612&w=0&k=20&c=s-6QzHmAX5CFPJnRf_gjr3pZ8Tz4ciT4QzRow-pH_dI="
+    },
+    {
+      "date": "01/08/2023",
+      "title": "GROCERY LIST",
+      "description": "Make grocery shopping easier and more efficient by adding, removing and modifying the online grocery list. It will help to make your next grocery trip stress-free!",
+      "url": "https://kanishkaa.online/grocerylist/",
+      "imgSrc": "https://media.istockphoto.com/id/1399582867/photo/woman-checking-the-grocery-receipt.jpg?s=612x612&w=0&k=20&c=tf0m7HeQ1F-U9EYWFz4J2p9-jlMKsCeE_2Qp9S05MQE="
+    }
+  ]
+}
