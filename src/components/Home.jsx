@@ -47,7 +47,7 @@ const Home = ({ ratio }) => {
                     />
 
                     <div>
-                        <a href="mailto:official.6packprogrammer@gmail.com">Hire Me</a>
+                        <a href="mailto:adhikarikanishka13@gmail.com">Hire Me</a>
                         <a href="#work">
                             Projects <BsArrowUpRight />
                         </a>
@@ -76,7 +76,7 @@ const Home = ({ ratio }) => {
                 </div>
             </section>
             <section>
-                <img src={me} alt="Abhishek" />
+                <img src={me} alt="Kanishka" />
             </section>
             <BsChevronDown id="arrow"/>
         </div>
